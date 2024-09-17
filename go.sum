@@ -1,0 +1,4 @@
+github.com/siderolabs/talos v1.7.6 h1:SDNExg++k4Q9hQC9qIC18gHKVU7hvBdObeFKwJbwLWw=
+github.com/siderolabs/talos v1.7.6/go.mod h1:Vx6CrjEAs3PcZCTw2qGbHla4R06oqCJl1HCpcvYIM2k=
+github.com/siderolabs/talos/pkg/machinery v1.7.6 h1:+tONHv8JuW46/mTWNgDAUkdfYvWBZ/Ai1mlK1SSQzZU=
+github.com/siderolabs/talos/pkg/machinery v1.7.6/go.mod h1:8H8geXAcGN0DvMOL70p4sC5gZUCxdoZmtLbuoKigFZI=
