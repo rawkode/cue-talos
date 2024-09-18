@@ -2,7 +2,7 @@
 
 //cue:generate cue get go github.com/rawkode/cue-talos/config
 
-package config
+package main
 
 // VersionContract describes Talos version to generate config for.
 //

@@ -2,7 +2,7 @@
 
 //cue:generate cue get go github.com/rawkode/cue-talos/config/config
 
-package configt
+package config
 
-// Encoder provides the interface to encode configuration documents.
-#Encoder: _
+// SideroLinkConfig defines the interface to access SideroLink configuration.
+#SideroLinkConfig: _

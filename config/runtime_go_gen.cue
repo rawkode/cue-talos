@@ -2,7 +2,7 @@
 
 //cue:generate cue get go github.com/rawkode/cue-talos/config/config
 
-package configt
+package config
 
 // RuntimeConfig defines the interface to access Talos runtime configuration.
 #RuntimeConfig: _

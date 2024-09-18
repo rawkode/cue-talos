@@ -2,7 +2,7 @@
 
 //cue:generate cue get go github.com/rawkode/cue-talos/config/config
 
-package configt
+package config
 
 // MachineConfig defines the requirements for a config that pertains to machine
 // related options.

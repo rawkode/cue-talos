@@ -2,7 +2,7 @@
 
 //cue:generate cue get go github.com/rawkode/cue-talos/config/config
 
-package configt
+package config
 
 // Validator is the interface to validate configuration.
 //

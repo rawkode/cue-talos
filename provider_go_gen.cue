@@ -2,15 +2,15 @@
 
 //cue:generate cue get go github.com/rawkode/cue-talos/config
 
-package config
+package main
 
-import "github.com/rawkode/cue-talos/config/configt"
+import "github.com/rawkode/cue-talos/config"
 
 // Encoder provides the interface to encode configuration documents.
-#Encoder: configt.#Encoder
+#Encoder: config.#Encoder
 
 // Validator provides the interface to validate configuration.
-#Validator: configt.#Validator
+#Validator: config.#Validator
 
 // Container provides the interface to access configuration documents.
 //
